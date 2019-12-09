@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  department: one
+  type: one
+  value: 1.5
+  year: 2019-12-06
+
+two:
+  department: two
+  type: two
+  value: 1.5
+  year: 2019-12-06

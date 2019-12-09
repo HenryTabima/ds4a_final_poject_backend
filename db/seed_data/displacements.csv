@@ -1,0 +1,579 @@
+Departamento,Year,total_displacements
+amazonas,2003,1
+antioquia,2003,930
+arauca,2003,6
+archipielago de san andres. providencia y santa catalina,2003,0
+atlantico,2003,25
+bogota d.c.,2003,555
+bolivar,2003,18
+boyaca,2003,27
+caldas,2003,14
+caqueta,2003,29
+casanare,2003,33
+cauca,2003,24
+cesar,2003,29
+choco,2003,11
+cordoba,2003,8
+cundinamarca,2003,144
+guainia,2003,1
+guaviare,2003,2
+huila,2003,46
+guajira,2003,5
+magdalena,2003,10
+meta,2003,91
+narino,2003,8
+norte de santander,2003,36
+putumayo,2003,12
+quindio,2003,25
+risaralda,2003,28
+santander,2003,99
+sucre,2003,4
+tolima,2003,44
+valle del cauca,2003,61
+vaupes,2003,1
+vichada,2003,2
+<por asignar>,2003,1181
+amazonas,2004,0
+antioquia,2004,913
+arauca,2004,14
+archipielago de san andres. providencia y santa catalina,2004,0
+atlantico,2004,65
+bogota d.c.,2004,760
+bolivar,2004,110
+boyaca,2004,45
+caldas,2004,20
+caqueta,2004,27
+casanare,2004,79
+cauca,2004,53
+cesar,2004,106
+choco,2004,36
+cordoba,2004,376
+cundinamarca,2004,233
+guainia,2004,1
+guaviare,2004,5
+huila,2004,65
+guajira,2004,11
+magdalena,2004,76
+meta,2004,142
+narino,2004,17
+norte de santander,2004,486
+putumayo,2004,17
+quindio,2004,35
+risaralda,2004,44
+santander,2004,132
+sucre,2004,93
+tolima,2004,76
+valle del cauca,2004,345
+vaupes,2004,1
+vichada,2004,4
+<por asignar>,2004,1167
+amazonas,2005,0
+antioquia,2005,4360
+arauca,2005,50
+archipielago de san andres. providencia y santa catalina,2005,1
+atlantico,2005,278
+bogota d.c.,2005,1019
+bolivar,2005,395
+boyaca,2005,76
+caldas,2005,133
+caqueta,2005,58
+casanare,2005,350
+cauca,2005,65
+cesar,2005,193
+choco,2005,104
+cordoba,2005,1627
+cundinamarca,2005,277
+guainia,2005,2
+guaviare,2005,11
+huila,2005,92
+guajira,2005,26
+magdalena,2005,116
+meta,2005,483
+narino,2005,157
+norte de santander,2005,221
+putumayo,2005,25
+quindio,2005,96
+risaralda,2005,407
+santander,2005,376
+sucre,2005,358
+tolima,2005,273
+valle del cauca,2005,369
+vaupes,2005,2
+vichada,2005,12
+<por asignar>,2005,1186
+amazonas,2006,12
+antioquia,2006,4397
+arauca,2006,29
+archipielago de san andres. providencia y santa catalina,2006,0
+atlantico,2006,923
+bogota d.c.,2006,1291
+bolivar,2006,582
+boyaca,2006,528
+caldas,2006,259
+caqueta,2006,184
+casanare,2006,157
+cauca,2006,139
+cesar,2006,2518
+choco,2006,283
+cordoba,2006,1284
+cundinamarca,2006,485
+guainia,2006,4
+guaviare,2006,43
+huila,2006,199
+guajira,2006,294
+magdalena,2006,1798
+meta,2006,873
+narino,2006,87
+norte de santander,2006,328
+putumayo,2006,125
+quindio,2006,92
+risaralda,2006,219
+santander,2006,1421
+sucre,2006,310
+tolima,2006,300
+valle del cauca,2006,406
+vaupes,2006,3
+vichada,2006,9
+<por asignar>,2006,1307
+amazonas,2007,2
+antioquia,2007,292
+arauca,2007,25
+archipielago de san andres. providencia y santa catalina,2007,0
+atlantico,2007,32
+bogota d.c.,2007,500
+bolivar,2007,57
+boyaca,2007,29
+caldas,2007,33
+caqueta,2007,117
+casanare,2007,48
+cauca,2007,98
+cesar,2007,44
+choco,2007,8
+cordoba,2007,6
+cundinamarca,2007,100
+guainia,2007,5
+guaviare,2007,7
+huila,2007,142
+guajira,2007,11
+magdalena,2007,10
+meta,2007,158
+narino,2007,39
+norte de santander,2007,39
+putumayo,2007,38
+quindio,2007,27
+risaralda,2007,70
+santander,2007,79
+sucre,2007,50
+tolima,2007,131
+valle del cauca,2007,395
+vaupes,2007,2
+vichada,2007,8
+<por asignar>,2007,342
+amazonas,2008,3
+antioquia,2008,257
+arauca,2008,19
+archipielago de san andres. providencia y santa catalina,2008,0
+atlantico,2008,39
+bogota d.c.,2008,359
+bolivar,2008,70
+boyaca,2008,36
+caldas,2008,64
+caqueta,2008,118
+casanare,2008,53
+cauca,2008,187
+cesar,2008,42
+choco,2008,32
+cordoba,2008,5
+cundinamarca,2008,106
+guainia,2008,10
+guaviare,2008,16
+huila,2008,131
+guajira,2008,10
+magdalena,2008,11
+meta,2008,375
+narino,2008,31
+norte de santander,2008,31
+putumayo,2008,57
+quindio,2008,30
+risaralda,2008,80
+santander,2008,61
+sucre,2008,48
+tolima,2008,119
+valle del cauca,2008,221
+vaupes,2008,3
+vichada,2008,14
+<por asignar>,2008,366
+amazonas,2009,2
+antioquia,2009,251
+arauca,2009,17
+archipielago de san andres. providencia y santa catalina,2009,0
+atlantico,2009,25
+bogota d.c.,2009,376
+bolivar,2009,41
+boyaca,2009,45
+caldas,2009,33
+caqueta,2009,121
+casanare,2009,66
+cauca,2009,83
+cesar,2009,42
+choco,2009,31
+cordoba,2009,20
+cundinamarca,2009,110
+guainia,2009,8
+guaviare,2009,15
+huila,2009,163
+guajira,2009,7
+magdalena,2009,7
+meta,2009,205
+narino,2009,45
+norte de santander,2009,34
+putumayo,2009,64
+quindio,2009,40
+risaralda,2009,50
+santander,2009,56
+sucre,2009,23
+tolima,2009,125
+valle del cauca,2009,279
+vaupes,2009,6
+vichada,2009,5
+<por asignar>,2009,408
+amazonas,2010,1
+antioquia,2010,209
+arauca,2010,13
+archipielago de san andres. providencia y santa catalina,2010,0
+atlantico,2010,17
+bogota d.c.,2010,338
+bolivar,2010,25
+boyaca,2010,11
+caldas,2010,14
+caqueta,2010,143
+casanare,2010,38
+cauca,2010,58
+cesar,2010,14
+choco,2010,25
+cordoba,2010,14
+cundinamarca,2010,92
+guainia,2010,5
+guaviare,2010,19
+huila,2010,109
+guajira,2010,8
+magdalena,2010,9
+meta,2010,236
+narino,2010,29
+norte de santander,2010,42
+putumayo,2010,86
+quindio,2010,32
+risaralda,2010,44
+santander,2010,43
+sucre,2010,12
+tolima,2010,98
+valle del cauca,2010,183
+vaupes,2010,9
+vichada,2010,4
+<por asignar>,2010,248
+amazonas,2011,1
+antioquia,2011,113
+arauca,2011,13
+archipielago de san andres. providencia y santa catalina,2011,0
+atlantico,2011,6
+bogota d.c.,2011,160
+bolivar,2011,5
+boyaca,2011,10
+caldas,2011,12
+caqueta,2011,72
+casanare,2011,42
+cauca,2011,33
+cesar,2011,16
+choco,2011,14
+cordoba,2011,13
+cundinamarca,2011,48
+guainia,2011,3
+guaviare,2011,22
+huila,2011,86
+guajira,2011,4
+magdalena,2011,8
+meta,2011,185
+narino,2011,21
+norte de santander,2011,13
+putumayo,2011,27
+quindio,2011,24
+risaralda,2011,26
+santander,2011,30
+sucre,2011,12
+tolima,2011,40
+valle del cauca,2011,126
+vaupes,2011,18
+vichada,2011,3
+<por asignar>,2011,162
+amazonas,2012,2
+antioquia,2012,110
+arauca,2012,8
+archipielago de san andres. providencia y santa catalina,2012,0
+atlantico,2012,3
+bogota d.c.,2012,92
+bolivar,2012,10
+boyaca,2012,7
+caldas,2012,6
+caqueta,2012,45
+casanare,2012,21
+cauca,2012,23
+cesar,2012,17
+choco,2012,13
+cordoba,2012,4
+cundinamarca,2012,35
+guainia,2012,1
+guaviare,2012,11
+huila,2012,48
+guajira,2012,1
+magdalena,2012,8
+meta,2012,135
+narino,2012,21
+norte de santander,2012,27
+putumayo,2012,28
+quindio,2012,8
+risaralda,2012,14
+santander,2012,37
+sucre,2012,4
+tolima,2012,33
+valle del cauca,2012,90
+vaupes,2012,6
+vichada,2012,1
+<por asignar>,2012,92
+amazonas,2013,0
+antioquia,2013,131
+arauca,2013,9
+archipielago de san andres. providencia y santa catalina,2013,0
+atlantico,2013,9
+bogota d.c.,2013,87
+bolivar,2013,9
+boyaca,2013,5
+caldas,2013,15
+caqueta,2013,67
+casanare,2013,13
+cauca,2013,64
+cesar,2013,27
+choco,2013,23
+cordoba,2013,10
+cundinamarca,2013,38
+guainia,2013,6
+guaviare,2013,12
+huila,2013,39
+guajira,2013,14
+magdalena,2013,13
+meta,2013,112
+narino,2013,28
+norte de santander,2013,20
+putumayo,2013,44
+quindio,2013,11
+risaralda,2013,22
+santander,2013,35
+sucre,2013,1
+tolima,2013,42
+valle del cauca,2013,133
+vaupes,2013,2
+vichada,2013,0
+<por asignar>,2013,108
+amazonas,2014,1
+antioquia,2014,119
+arauca,2014,11
+archipielago de san andres. providencia y santa catalina,2014,0
+atlantico,2014,9
+bogota d.c.,2014,65
+bolivar,2014,10
+boyaca,2014,12
+caldas,2014,9
+caqueta,2014,76
+casanare,2014,14
+cauca,2014,47
+cesar,2014,24
+choco,2014,14
+cordoba,2014,11
+cundinamarca,2014,47
+guainia,2014,1
+guaviare,2014,14
+huila,2014,60
+guajira,2014,10
+magdalena,2014,5
+meta,2014,129
+narino,2014,17
+norte de santander,2014,37
+putumayo,2014,11
+quindio,2014,14
+risaralda,2014,20
+santander,2014,22
+sucre,2014,3
+tolima,2014,48
+valle del cauca,2014,80
+vaupes,2014,2
+vichada,2014,2
+<por asignar>,2014,90
+amazonas,2015,2
+antioquia,2015,91
+arauca,2015,8
+archipielago de san andres. providencia y santa catalina,2015,0
+atlantico,2015,1
+bogota d.c.,2015,53
+bolivar,2015,8
+boyaca,2015,8
+caldas,2015,4
+caqueta,2015,66
+casanare,2015,18
+cauca,2015,47
+cesar,2015,11
+choco,2015,26
+cordoba,2015,9
+cundinamarca,2015,33
+guainia,2015,4
+guaviare,2015,11
+huila,2015,50
+guajira,2015,2
+magdalena,2015,2
+meta,2015,71
+narino,2015,22
+norte de santander,2015,8
+putumayo,2015,22
+quindio,2015,14
+risaralda,2015,24
+santander,2015,15
+sucre,2015,3
+tolima,2015,26
+valle del cauca,2015,75
+vaupes,2015,6
+vichada,2015,4
+<por asignar>,2015,75
+amazonas,2016,0
+antioquia,2016,74
+arauca,2016,9
+archipielago de san andres. providencia y santa catalina,2016,0
+atlantico,2016,4
+bogota d.c.,2016,41
+bolivar,2016,6
+boyaca,2016,5
+caldas,2016,7
+caqueta,2016,61
+casanare,2016,5
+cauca,2016,21
+cesar,2016,14
+choco,2016,29
+cordoba,2016,4
+cundinamarca,2016,21
+guainia,2016,3
+guaviare,2016,10
+huila,2016,23
+guajira,2016,5
+magdalena,2016,4
+meta,2016,103
+narino,2016,20
+norte de santander,2016,21
+putumayo,2016,13
+quindio,2016,8
+risaralda,2016,19
+santander,2016,18
+sucre,2016,1
+tolima,2016,14
+valle del cauca,2016,64
+vaupes,2016,9
+vichada,2016,2
+<por asignar>,2016,91
+amazonas,2017,1
+antioquia,2017,68
+arauca,2017,10
+archipielago de san andres. providencia y santa catalina,2017,0
+atlantico,2017,0
+bogota d.c.,2017,48
+bolivar,2017,9
+boyaca,2017,11
+caldas,2017,6
+caqueta,2017,47
+casanare,2017,8
+cauca,2017,29
+cesar,2017,11
+choco,2017,41
+cordoba,2017,4
+cundinamarca,2017,31
+guainia,2017,0
+guaviare,2017,34
+huila,2017,26
+guajira,2017,6
+magdalena,2017,2
+meta,2017,110
+narino,2017,102
+norte de santander,2017,16
+putumayo,2017,16
+quindio,2017,12
+risaralda,2017,16
+santander,2017,8
+sucre,2017,3
+tolima,2017,17
+valle del cauca,2017,67
+vaupes,2017,5
+vichada,2017,7
+<por asignar>,2017,100
+amazonas,2018,0
+antioquia,2018,43
+arauca,2018,12
+archipielago de san andres. providencia y santa catalina,2018,0
+atlantico,2018,0
+bogota d.c.,2018,45
+bolivar,2018,9
+boyaca,2018,5
+caldas,2018,3
+caqueta,2018,7
+casanare,2018,7
+cauca,2018,10
+cesar,2018,11
+choco,2018,17
+cordoba,2018,4
+cundinamarca,2018,13
+guainia,2018,0
+guaviare,2018,4
+huila,2018,6
+guajira,2018,4
+magdalena,2018,2
+meta,2018,22
+narino,2018,15
+norte de santander,2018,15
+putumayo,2018,8
+quindio,2018,2
+risaralda,2018,14
+santander,2018,13
+sucre,2018,1
+tolima,2018,8
+valle del cauca,2018,35
+vaupes,2018,0
+vichada,2018,0
+<por asignar>,2018,80
+amazonas,2019,0
+antioquia,2019,25
+arauca,2019,4
+archipielago de san andres. providencia y santa catalina,2019,0
+atlantico,2019,0
+bogota d.c.,2019,9
+bolivar,2019,5
+boyaca,2019,1
+caldas,2019,0
+caqueta,2019,0
+casanare,2019,1
+cauca,2019,6
+cesar,2019,7
+choco,2019,4
+cordoba,2019,0
+cundinamarca,2019,7
+guainia,2019,0
+guaviare,2019,1
+huila,2019,0
+guajira,2019,1
+magdalena,2019,1
+meta,2019,2
+narino,2019,3
+norte de santander,2019,13
+putumayo,2019,0
+quindio,2019,2
+risaralda,2019,1
+santander,2019,11
+sucre,2019,1
+tolima,2019,2
+valle del cauca,2019,14
+vaupes,2019,0
+vichada,2019,0
+<por asignar>,2019,19
