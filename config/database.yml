@@ -16,7 +16,7 @@
 #
 default: &default
   adapter: postgis
-  encoding: unicode
+  encoding: utf8
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
@@ -82,6 +82,8 @@ development:
 #
 production:
   <<: *default
-  database: backend_production
-  username: backend
-  password: <%= ENV['BACKEND_DATABASE_PASSWORD'] %>
+  database: <%= ENV['RDS_DB_NAME'] %>
+  username: <%= ENV['RDS_USERNAME'] %>
+  password: <%= ENV['RDS_PASSWORD'] %>
+  host: <%= ENV['RDS_HOSTNAME'] %>
+  port: <%= ENV['RDS_PORT'] %>
